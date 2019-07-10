@@ -1,0 +1,8 @@
+{
+    "mongoURIAtlas": "mongodb+srv://admin:admin@devconnector-bp1td.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb://localhost/devconnector",
+    "jwtSecret": "devconnecttoken",
+    "githubClientId": "cd954a31e46618358b87",
+    "githubSecret": "685114a128a58ba88b66b02fb4572ef832e9ef52"
+  }
+  

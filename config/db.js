@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const config = require('config');
-const db = config.get('mongoURI');
+// const db = config.get('mongoURI'); //This is for local development
+const db = config.get('mongoURIAtlas'); //This is for production
 
 const connectDB = async () => {
   try {
